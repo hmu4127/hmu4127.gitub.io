@@ -1,0 +1,5 @@
+Bullet point:
+	>Working as a team in the SE major is essential so learning the basics on team flow is something I'd like to learn.
+	>I would also like to learn about how work load is divided between the members.
+	>Actually working on code as a group.
+
